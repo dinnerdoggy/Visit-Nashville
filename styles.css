@@ -20,7 +20,9 @@ body {
     align-items: center;
     justify-content: center;
     background-image: url("images/NashvilleSkyline.jpg");
-    background-size: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
     min-height: 343px;
     color: #F1FAEE;
     width: auto;
